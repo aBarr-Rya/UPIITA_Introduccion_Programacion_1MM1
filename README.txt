@@ -1,3 +1,13 @@
+
+//*********************************************************************************
+// Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas IPN 
+//                         Morales Barrera Andrea 1MM1 
+//                         Programa Ing Mecatrónica
+//                        Introduccion a la Programación
+//                          Boleta :   2020640286
+//*********************************************************************************
+
+
 En el documento Resultados.txt se almacenaran todos los resultados obtenidos en las diferentes modalidades del examen aleatorio.
 si desea eliminar los registros puede hacerlo a partir de un reglon abajo del encabezado "Resultados" que se ve como el de abajo:
 
@@ -27,10 +37,3 @@ lo unico que debes de hacer es descargar las carpetas en el orden que ya están 
 NOTA: Si vas a copiar y pegar mi codigo deberás cambiar las rutas de archivo, y conservar el .c al final de cada archivo ya que el codigo no está diseñado para c++ o c#
 
 
-//*********************************************************************************
-// Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas IPN 
-//                         Morales Barrera Andrea 1MM1 
-//                         Programa Ing Mecatrónica
-//                        Introduccion a la Programación
-//                          Boleta :   2020640286
-//*********************************************************************************
