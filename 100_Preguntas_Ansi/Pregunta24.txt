@@ -1,0 +1,4 @@
+24.  Un archivo de encabezado incorporado contiene una definicion de funcion incorporada?
+R:=>
+No, porque  el archivo de encabezado solo declara la funcion. 
+La definicion esta en la biblioteca la cual esta enlazada por el enlazador. 

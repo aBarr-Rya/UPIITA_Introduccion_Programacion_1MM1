@@ -1,0 +1,8 @@
+3.  Para que sirve la palabra clave auto?
+R:=>
+Para definir cada variable local. En la siguiente funcion, las variables `i’ y `j’ son variables automaticas.
+void f() {
+   int i;
+   auto int j;
+}
+NOTA: Una variable global no puede ser una variable automatica.

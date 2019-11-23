@@ -1,0 +1,3 @@
+32. Ademas de Dennis Ritchie  Quien contribuyo en el diseño de lenguaje C?
+R:=>
+Brain Kernighan

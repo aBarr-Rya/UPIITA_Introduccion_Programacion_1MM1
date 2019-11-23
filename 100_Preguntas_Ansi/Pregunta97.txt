@@ -1,0 +1,3 @@
+97.  Que lazo de control se recomienda si tiene que ejecutar un conjunto de sentencias para un numero fijo de veces?
+R:=>
+el lazo o ciclo for. 

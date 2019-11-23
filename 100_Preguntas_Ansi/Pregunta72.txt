@@ -1,0 +1,3 @@
+72.  Cual es el valor por defecto de las variables locales y globales?
+R:=>
+De variables locales un ‘valor de basura’ (garbage value) y variables globales un valor 0 por defecto.

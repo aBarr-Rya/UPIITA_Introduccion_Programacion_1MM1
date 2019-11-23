@@ -1,0 +1,4 @@
+40.  Que son los campos de bits (bit fields)?
+R:=>
+Se pueden crear estructuras de datos de enteros de distinto tamanos que no sean estandar mediante el uso de los campos de bits. 
+Estas estructuras van a automaticamente ajustarse en tamano segun los diferentes tamanos de ‘enteros’ de la maquina. 

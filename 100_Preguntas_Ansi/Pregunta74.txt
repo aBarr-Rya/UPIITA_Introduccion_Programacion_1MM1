@@ -1,0 +1,3 @@
+74.  Que es la longitud de una cadena?
+R:=>
+Es la cuenta del caracter quitando el caracter’\0′. 

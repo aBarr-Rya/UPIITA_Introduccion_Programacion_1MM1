@@ -1,0 +1,4 @@
+34  Para que se puede emplear el termino #define?:
+R:=>
+ 	a) 	Para definir constantes numericas
+	

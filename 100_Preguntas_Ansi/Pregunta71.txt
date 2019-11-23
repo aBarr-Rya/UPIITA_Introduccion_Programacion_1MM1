@@ -1,0 +1,5 @@
+71.  Pueden tener el mismo nombre las variables que pertenecen a diferentes ambitos? 
+R:=>
+Si, las variables que pertenecen a un ambito distinto, pueden tener el mismo nombre que en el siguiente fragmento de codigo.
+Ejemplo:=>
+int var; void f() {    int var; } main() {    int var; }

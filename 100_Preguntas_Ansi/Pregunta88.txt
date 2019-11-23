@@ -1,0 +1,3 @@
+88.  Cuando las macros se expanden?
+R:=>
+Al momento del preprocesamiento. 

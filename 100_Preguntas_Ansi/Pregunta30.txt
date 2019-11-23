@@ -1,0 +1,4 @@
+30.  Cuando se usa el operador -> flecha (arrow)?
+R:=>
+Si la variable de estructura/union es una variable pointer (de puntero), 
+para entrar a los elementos de estructura/union se usa el operador de flecha. 

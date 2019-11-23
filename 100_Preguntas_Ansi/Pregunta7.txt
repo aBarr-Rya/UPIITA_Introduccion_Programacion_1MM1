@@ -1,0 +1,11 @@
+7.  Que es una variable estatica?
+R:=>
+Una variable local estaatica es la que retiene su valor entre la llamada de funcion y el valor por defecto, es 0. 
+La siguiente funcion imprimira 1 2 3 si es llamada tres veces.
+Ejemplo:=>
+void f() {
+   static int i;
+   ++i;
+   printf(“%d “,i);
+}
+Si una variable global es estatica, su visibilidad estara limitada al mismo codigo fuente. 

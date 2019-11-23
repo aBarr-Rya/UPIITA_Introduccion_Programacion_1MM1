@@ -1,0 +1,3 @@
+33  Cual es el prototipo de la funcion suma que emplea paso de parametros por valor y devuelve el valor de la suma?:
+R:=>
+int suma(int,int);

@@ -1,0 +1,3 @@
+89.  Puede una funcion devolver multiples valores al caller utilizando la palabra reservada de retorno?
+R:=>
+No, solamente  puede ser devuelto un valor al caller. 

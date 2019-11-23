@@ -1,0 +1,5 @@
+54.  Que operador se utiliza para continuar la definicion de macro en la siguiente linea?
+R:=>
+Se usa la barra oblicua hacia atras (\).
+Ejemplo:=>
+#define MESSAGE 'Hi, \   Welcome to C'

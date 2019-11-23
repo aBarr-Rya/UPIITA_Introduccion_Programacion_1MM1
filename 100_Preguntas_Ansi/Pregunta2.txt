@@ -1,0 +1,4 @@
+2.  Cual es la diferencia entre asignacion de memoria malloc() y calloc()?
+R:=>
+Ambos asignan memoria desde el area de acopio/memoria dinamica. 
+Por defecto calloc carga la memoria asignada con 0’s. 

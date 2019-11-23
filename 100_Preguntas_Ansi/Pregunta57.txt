@@ -1,0 +1,3 @@
+57.  Que funcion de la libreria integrada se puede utilizar para redimensionar la memoria dinamica asignada?
+R:=>
+realloc().

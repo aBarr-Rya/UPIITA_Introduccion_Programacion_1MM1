@@ -1,0 +1,4 @@
+56.  Cual es el problema con el siguiente fragmento de codigo?
+char *s1 = "hello",*s2 = "welcome";   strcat(s1,s2);
+R:=>
+s1 apunta a una constante de cadena y no puede ser modificada.

@@ -1,0 +1,9 @@
+9.  Cual es el proposito del especificador de almacenamiento externo (extern storage specifier)?
+R:=>
+Es usado para resolver el alcance del simbolo global.
+Ejemplo:=>
+main() {
+   extern int i;
+   Printf(“%d”,i);
+}
+int i = 20;

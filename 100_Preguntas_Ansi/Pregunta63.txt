@@ -1,0 +1,3 @@
+63.  Cual es el predecesor de lenguaje C?
+R:=>
+B 

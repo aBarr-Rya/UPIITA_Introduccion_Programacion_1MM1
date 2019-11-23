@@ -1,0 +1,3 @@
+61.  Que es una variable?
+R:=>
+Se define como variable a un almacenamiento de nombres. 

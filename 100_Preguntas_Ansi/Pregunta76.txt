@@ -1,0 +1,3 @@
+76.  Que operador se puede utilizar para acceder a los elementos de union si la variable de union es una variable de puntero (pointer)?
+R:=>
+Operador de flecha (arrow) (->). 

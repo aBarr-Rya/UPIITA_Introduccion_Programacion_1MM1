@@ -1,0 +1,4 @@
+53.  Que es una funcion estatica?
+R:=>
+Es la definicion de una funcion prefijada con una palabra clave. 
+Se convierte una funcion en estatica, si se llama solo dentro del mismo codigo fuente.

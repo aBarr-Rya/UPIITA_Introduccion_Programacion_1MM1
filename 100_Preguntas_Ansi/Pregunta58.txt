@@ -1,0 +1,3 @@
+58. Define un array.
+R:=>
+El Array es una coleccion de elementos de datos parecidos bajo un nombre comun. 

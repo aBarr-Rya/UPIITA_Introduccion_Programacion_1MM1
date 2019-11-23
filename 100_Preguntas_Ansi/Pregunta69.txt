@@ -1,0 +1,3 @@
+69.  Como funciona el operador XOR?
+R:=>
+Si los dos bits correspondientes son iguales, se obtiene 0 o 1. 

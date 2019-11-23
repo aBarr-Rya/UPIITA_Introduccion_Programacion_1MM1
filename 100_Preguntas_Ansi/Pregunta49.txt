@@ -1,0 +1,3 @@
+49.  Que palabra clave se utiliza para realizar una ramificacion incondicional?
+R:=>
+goto. 

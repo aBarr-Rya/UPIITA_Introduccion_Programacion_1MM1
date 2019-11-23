@@ -1,0 +1,10 @@
+41.  Que son los argumentos de la linea de comandos?
+R:=>
+Son los argumentos que se pasan a la funcion main() durante la ejecucion del programa. 
+Los parametros son cadenas que se mantienen en el segundo argumento (abajo en args) de la funcion, 
+que es una matriz de punteros (pointers) de caracteres. 
+El primer argumento representa el conteo de argumentos (abajo en count) se actualiza 
+de forma automatica por el sistema operativo.
+Ejemplo:=>
+main( int count, char *args[]) {
+}

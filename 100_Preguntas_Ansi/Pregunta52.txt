@@ -1,0 +1,7 @@
+52.   Que es una declaracion NULL?
+R:=>
+Es una declaracion nula. Es la  sentencia que no puede ser ejecutable como ; (punto y coma).
+Ejemplo:=>
+int count = 0;
+while( ++count<=10 ) ;
+Arriba no hace nada 10 veces. 

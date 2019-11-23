@@ -1,0 +1,4 @@
+25. Explica la programacion modular.
+R:=>
+Un enfoque modular  consiste en dividir el programa en sub-programas, (modulos/funcion) para lograr la tarea dada. 
+La definicion de funciones genericas ofrece posibilidad de reutilizar las funciones, como las de biblioteca incorporadas. 

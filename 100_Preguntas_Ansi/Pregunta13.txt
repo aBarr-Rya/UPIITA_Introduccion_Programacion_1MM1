@@ -1,0 +1,3 @@
+13. Cuando hablamos de S++ o S = S+1,  Cual se puede recomendar para incrementar el valor en 1 y por que?
+R:=>
+S++, ya que se trata de una instruccion de maquina individual (INC) interna.

@@ -1,0 +1,4 @@
+17.  Cual es la diferencia entre parametros reales y formales?
+R:=>
+Los parametros reales son los enviados a la funcion al final de la llamada, 
+y los formales son los que reciben la definicion de la funcion.

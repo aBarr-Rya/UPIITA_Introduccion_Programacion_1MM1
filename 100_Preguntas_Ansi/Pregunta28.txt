@@ -1,0 +1,3 @@
+28.  Como se puede imprimir un slash usando cualquiera de las funciones de la familia printf()?
+R:=>
+Usando la barra invertida o slash. 

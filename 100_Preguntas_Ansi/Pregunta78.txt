@@ -1,0 +1,3 @@
+78. Nombre una funcion que se puede utilizar para cerrar el flujo de archivos.
+R:=>
+fclose(). 

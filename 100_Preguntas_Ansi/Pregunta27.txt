@@ -1,0 +1,3 @@
+27.  Que es un preprocesador?
+R:=>
+El preprocesador es una directiva para que el compilador efectue ciertas cosas antes de comenzar el proceso de compilacion real. 

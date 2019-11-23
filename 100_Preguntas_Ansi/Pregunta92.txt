@@ -1,0 +1,3 @@
+92.  Se puede inicializar la variable de estructura tan pronto como se declara?
+R:=>
+Si. 

@@ -1,0 +1,4 @@
+44. Describa el modo de apertura de archivos 'w+'.
+R:=>
+Se abre un archivo  para leer  y escribir. Si un archivo no existe, 
+se debe crear uno, pero, si el archivo existe, se sobrescribira.

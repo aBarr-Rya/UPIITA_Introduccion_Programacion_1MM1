@@ -1,0 +1,3 @@
+75.  Cual es la funcion incorporada para anadir una cadena a otra?
+R:=>
+strcat() forman la cabecera string.h 

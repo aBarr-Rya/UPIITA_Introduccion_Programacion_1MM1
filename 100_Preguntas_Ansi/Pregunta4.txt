@@ -1,0 +1,12 @@
+4.  Cuales son los lugares validos para que aparezca el salto de palabra clave Break?
+R:=>
+La rotura solo aparece en el control de bucle y la instruccion de conmutacion de cambio. 
+El proposito de la rotura es sacar el control de dichos bloques.
+Sintaxis para el bucle.
+Ejemplo:=>
+for(expression-1;expression-2;expression-3) {
+//aqui van las declaraciones
+}
+Cuando el control alcanza la expresion-1 se ejecuta primero. 
+Luego, despues de la expresion-2, pasa a ser evaluada, y si la expresion-2 evalua disimil de cero ‘conjunto de sentencias’ 
+y se ejecuta la expresion-3, seguida de la expresion-2.

@@ -1,0 +1,3 @@
+65.  Que operador puede utilizarse para determinar el tamano de un tipo de datos o de una variable?
+R:=>
+sizeof 

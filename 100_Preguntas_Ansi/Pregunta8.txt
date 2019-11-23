@@ -1,0 +1,5 @@
+8.  Que es un puntero NULL?
+R:=>
+Es el puntero que no apunta a nada.
+Ejemplo:=>
+char *p=NULL;

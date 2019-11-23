@@ -1,0 +1,3 @@
+91. Para que el puntero (pointer) sea generico, que tipo de flecha (arrow) necesita ser declarado?
+R:=>
+Void 

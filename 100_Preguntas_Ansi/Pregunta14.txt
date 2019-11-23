@@ -1,0 +1,4 @@
+14.  Que es un puntero colgante?
+R:=>
+Es el  puntero que al  inicio contiene una direccion valida, pero  mas tarde libera la direccion retenida. 
+Entonces recibe el nombre de puntero colgante.

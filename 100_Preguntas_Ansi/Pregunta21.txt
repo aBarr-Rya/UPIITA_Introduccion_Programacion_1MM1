@@ -1,0 +1,3 @@
+21.  Que es una estructura anidada?
+R:=>
+Es una estructura que contiene un elemento de otra estructura tal y como su miembro lo denomina.

@@ -1,0 +1,3 @@
+80. Defina una estructura (structure).
+R:=>
+Se define una estructura como una coleccion de datos heterogeneos. 

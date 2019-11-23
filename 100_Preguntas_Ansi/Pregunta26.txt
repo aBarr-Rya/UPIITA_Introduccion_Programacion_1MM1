@@ -1,0 +1,4 @@
+26.  Que es un token?
+R:=>
+Un token es una palabra clave,identificador,  un simbolo, una constante, 
+o  una literal de cadena, un programa CA contiene varios token. 

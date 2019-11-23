@@ -1,0 +1,4 @@
+37   Cual es el prototipo de la funcion suma que emplea paso de parametros por valor y 
+por referencia para no perder el resultado de la suma?:
+R:=>
+	a) 	void suma(int,int, int* );

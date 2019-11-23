@@ -1,0 +1,3 @@
+66.  Podemos asignar una variable flotante a una variable entera larga?
+R:=>
+Si,  pero con perdida de la parte fraccionaria.

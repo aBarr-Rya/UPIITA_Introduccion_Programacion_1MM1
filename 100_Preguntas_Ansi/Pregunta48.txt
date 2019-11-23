@@ -1,0 +1,3 @@
+48.  Cuantos operadores hay en la categoria de operadores ternarios?
+R:=>
+Solo hay uno y es un operador condicional (? :). 

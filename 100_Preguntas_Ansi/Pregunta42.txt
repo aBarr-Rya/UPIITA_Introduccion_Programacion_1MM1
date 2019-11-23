@@ -1,0 +1,6 @@
+42.  Cuales son las diferentes formas de pasar parametros a las funciones?  Cual usar en que momento?
+R:=>
+Llamada por valor (value): se envian solo valores a la funcion como parametros. 
+Se elige esta opcion si no se  quiere que los parametros reales sean modificados con parametros formales, sino que solo se usen.
+Llamada por referencia: Se envia la direccion de los parametros reales en lugar de los valores, 
+esta opcion es elegida si se quiere que los parametros reales se cambien con parametros formales.

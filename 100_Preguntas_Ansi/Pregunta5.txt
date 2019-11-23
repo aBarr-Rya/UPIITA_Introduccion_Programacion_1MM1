@@ -1,0 +1,6 @@
+5.  Cual es la diferencia entre incluir el archivo de encabezado con llaves angulares < > y comillas dobles ?
+R:=>
+Al  incluir un archivo de origen con < >, el compilador busca el archivo de encabezado en particular, 
+solo con la ruta de inclusion incorporada.
+Pero,  si se incluye un archivo de encabezado en ” “, el compilador buscara primero el archivo del 
+encabezado en particular dentro del directorio de trabajo actual, si no esta en la ruta de inclusion incluida.

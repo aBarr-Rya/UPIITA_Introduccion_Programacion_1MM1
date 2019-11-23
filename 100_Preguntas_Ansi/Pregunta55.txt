@@ -1,0 +1,5 @@
+55.  Que operador se utiliza para recibir el numero variable de argumentos de una funcion?
+R:=>
+Las elipses.
+Ejemplo:=>
+void f(int k,…)  {}

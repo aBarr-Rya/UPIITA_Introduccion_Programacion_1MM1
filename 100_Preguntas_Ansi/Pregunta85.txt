@@ -1,0 +1,3 @@
+85.  Cual es el archivo de salida generado por el enlazador (linker)?
+R:=>
+El archivo ejecutable se genera a raiz de Linker. 

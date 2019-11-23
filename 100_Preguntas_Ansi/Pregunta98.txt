@@ -1,0 +1,3 @@
+98.  Que es una constante?
+R:=>
+Es un valor que no se  puede  modificar. Estas variables son declaradas con la palabra clave const. 

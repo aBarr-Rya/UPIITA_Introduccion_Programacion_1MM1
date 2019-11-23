@@ -1,0 +1,3 @@
+68.  Cual es el valor de retorno de un operador relacional si devuelve alguno?
+R:=>
+Devuelve un valor 1 si la relacion entre las expresiones es verdadera, o bien 0. 

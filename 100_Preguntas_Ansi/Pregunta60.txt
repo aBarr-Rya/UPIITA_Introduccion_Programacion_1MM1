@@ -1,0 +1,3 @@
+60.  Que funcion incorporada se puede utilizar para mover el puntero (pointer) del archivo internamente?
+R:=>
+fseek() 

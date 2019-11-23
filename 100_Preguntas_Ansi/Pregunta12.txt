@@ -1,0 +1,5 @@
+12.  Cuando debemos usar el especificador de almacenamiento de registros (register storage specifier)?
+R:=>
+Una variable debe ser declarada usando el especificador de almacenamiento de registro, 
+cuando la variable es usada  con mas frecuencia,entonces puede ser que el compilador 
+le da registro a la CPU para su almacenamiento y para acelerar la busqueda de la variable. 

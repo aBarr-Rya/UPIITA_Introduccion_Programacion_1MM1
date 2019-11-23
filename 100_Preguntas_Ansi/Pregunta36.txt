@@ -1,0 +1,4 @@
+36  Que ventajas tiene la programacion recursiva frente a la iterativa?:
+R:=>
+	a) 	El codigo es mas compacto
+	

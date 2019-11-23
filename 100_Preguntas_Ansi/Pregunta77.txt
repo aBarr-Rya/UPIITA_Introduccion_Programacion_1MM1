@@ -1,0 +1,3 @@
+77.  Que es 'stdin'?
+R:=>
+stdin una variable de puntero (pointer) que esta abierta por defecto para un dispositivo de entrada estandar.

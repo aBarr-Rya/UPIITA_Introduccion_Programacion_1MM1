@@ -1,0 +1,4 @@
+18.  Se puede compilar un programa sin la funcion main()?
+R:=>
+Si, puede ser compilado, pero no puede ser ejecutado, 
+ya que la ejecucion requiere de la definicion de la funcion main(). 

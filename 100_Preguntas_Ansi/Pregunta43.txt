@@ -1,0 +1,3 @@
+43.  Cual es el proposito de la funcion stricmp() incorporada?
+R:=>
+Comparar dos cadenas ignorando el caso.

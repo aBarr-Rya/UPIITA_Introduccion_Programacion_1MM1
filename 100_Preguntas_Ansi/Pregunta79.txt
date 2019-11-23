@@ -1,0 +1,3 @@
+79.  Cual es el proposito del preprocesador #undef?
+R:=>
+Se usa para anular una definicion de macro existente. 

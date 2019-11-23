@@ -1,0 +1,3 @@
+82.  Que es la recursion (recursion)?
+R:=>
+Una funcion que se llama a si misma se le llama recursion. 

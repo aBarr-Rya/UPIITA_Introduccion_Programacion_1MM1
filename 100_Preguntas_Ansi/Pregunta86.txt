@@ -1,0 +1,3 @@
+86.  Cual es la longitud maxima de un identificador?
+R:=>
+Idealmente son 32 caracteres. 

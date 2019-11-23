@@ -1,0 +1,5 @@
+16.  Que es lvalue y rvalue?
+R:=>
+La expresion que esta a la derecha del operador de asignacion se denomina rvalue. 
+El rvalue se asignara al Ivalue, que aparece a la izquierda del operador de asignacion. 
+El valor de I se debe designar a una variable y no a una constante.

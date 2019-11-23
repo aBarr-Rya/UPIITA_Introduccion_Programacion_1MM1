@@ -1,0 +1,4 @@
+45.  Donde no se puede utilizar la direccion del operador (&)?
+R:=>
+No se puede utilizar en constantes, ni en variables que se declaran, 
+usando la clase de almacenamiento de registro.

@@ -1,0 +1,12 @@
+50.  Que es un puntero (pointer) a una funcion? Dar la sintaxis general de la misma.
+R:=>
+Un puntero (pointer) a una funcion, se le llama al puntero que mantiene la referencia de la funcion. 
+En general se declara lo siguiente.
+Ejemplo:=>
+ T (*fun_ptr) (T1,T2…); Where T is any date type.
+Una vez que fun_ptr refiere una funcion, la misma puede ser solicitada usando el puntero de la siguiente manera.
+
+Ejemplo 2:=>
+fun_ptr();
+[Or]
+(*fun_ptr)();

@@ -1,0 +1,4 @@
+23.  Que es una estructura autorreferencial?
+R:=>
+Es una estructura que contiene la misma variable de puntero de estructura, que su elemento. 
+Es por ello que se le denomina autorreferencial.

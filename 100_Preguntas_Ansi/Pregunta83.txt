@@ -1,0 +1,3 @@
+83.  Que funcion se puede utilizar para liberar la memoria dinamica asignada?
+R:=>
+free(). 

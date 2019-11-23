@@ -1,0 +1,3 @@
+31.  Puede una funcion llamar a otra?
+R:=>
+Si, cualquier funcion definida por el usuario puede llamar a otra funcion. 

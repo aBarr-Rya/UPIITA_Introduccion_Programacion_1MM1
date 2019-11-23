@@ -1,0 +1,3 @@
+22.  Cual es la diferencia entre declaracion de variables y definicion de variables?
+R:=>
+La declaracion da el valor al tipo de variable, y la definicion asocia el valor a la variable.

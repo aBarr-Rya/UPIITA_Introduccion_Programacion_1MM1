@@ -1,0 +1,4 @@
+38  Que informacion proporciona el prototipo de una funcion?:
+R:=>
+	b) 	Los tipos de datos de entrada y de salida
+	

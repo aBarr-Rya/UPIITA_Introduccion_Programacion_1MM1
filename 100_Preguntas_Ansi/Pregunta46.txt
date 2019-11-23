@@ -1,0 +1,3 @@
+46.  Es FILE un tipo de datos incorporado?
+R:=>
+No. Solo es una estructura definida en stdio.h.

@@ -1,0 +1,3 @@
+96.  Podemos establecer comentarios de nido (nest comments) en un codigo C?
+R:=>
+No, se puede. 

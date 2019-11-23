@@ -1,0 +1,3 @@
+59.  Que son las enumeraciones?
+R:=>
+Las enumeraciones son una lista de constantes enteras con nombre. Los numeradores se identifican con la palabra clave ‘enum’. 

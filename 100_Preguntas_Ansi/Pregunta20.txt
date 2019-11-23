@@ -1,0 +1,3 @@
+20.  Donde se almacena una variable automatica?
+R:=>
+Una variable automatica se almacena en la memoria de la pila. 

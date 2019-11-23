@@ -1,0 +1,3 @@
+84.  Como podemos determinar si un archivo se abre con exito o no usando la funcion fopen()?
+R:=>
+Si hay un fallo, fopen() devuelve NULL, en caso contrario se abre con exito. 

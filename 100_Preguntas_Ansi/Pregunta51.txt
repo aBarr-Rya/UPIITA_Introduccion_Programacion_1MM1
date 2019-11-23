@@ -1,0 +1,5 @@
+51. Explique el uso del operador de coma (,).
+R:=>
+El operador de coma, se puede usar para separar dos o mas expresiones.
+Ejemplo:=>
+printf(“hi”) , printf(“Hello”);
