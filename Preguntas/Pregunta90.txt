@@ -1,0 +1,8 @@
+90.  Que es un puntero (pointer) constante?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Es un puntero que no se puede alterar y por ello, no va a tener otra direccion despues de que tenga una. 
+R2:=>
+Una variable comun
+R3:=>
+Ambas

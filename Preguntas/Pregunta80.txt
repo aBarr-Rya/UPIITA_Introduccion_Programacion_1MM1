@@ -1,0 +1,8 @@
+80. Defina una estructura (structure).
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+matriz incambiable
+R2:=>
+vector de vectores estatica
+R3:=>
+Se define una estructura como una colección de datos heterogéneos. 

@@ -1,0 +1,8 @@
+74.  Que es la longitud de una cadena?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+cuanto ocupa de memoria dicha cadena
+R2:=>
+dividir el numero de caracteres entre 2
+R3:=>
+Es la cuenta del caracter quitando el caracter’\0'. 

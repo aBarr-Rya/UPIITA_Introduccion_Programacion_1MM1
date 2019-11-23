@@ -1,0 +1,10 @@
+41.  Que son los argumentos de la linea de comandos?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Encapsular: Union del codigo y los datos.
+R2:=>
+La abstraccion de datos solo suministra detalles necesarios y oculta la implementacion al mundo. 
+R3:=>
+Son los argumentos que se pasan a la funcion main() durante la ejecucion del programa. 
+Los parametros son cadenas que se mantienen en el segundo argumento (abajo en args) de la funcion, 
+que es una matriz de punteros (pointers) de caracteres. 

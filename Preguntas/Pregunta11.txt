@@ -1,0 +1,8 @@
+11. Cual es el significado de la direccion base del arreglo?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Pero las matrices solo pueden tener un unico elemento de tipo de datos pero las listas pueden tener cualquier elemento de tipo de datos.
+R2:=>
+La direccion de inicio del array se llama como la direccion base del mismo.
+R3:=>
+Esta especifica un bloque de codigo. 

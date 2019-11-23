@@ -1,0 +1,8 @@
+82.  Que es la recursion (recursion)?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+reutilizar funciones
+R2:=>
+reutilizar variables
+R3:=>
+Una funcion que se llama a si misma se le llama recursion. 

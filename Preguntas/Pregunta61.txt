@@ -1,0 +1,8 @@
+61.  Que es una variable?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+un espacio dentro de una funcion
+R2:=>
+Un espacio de memoria almacenado en el ordenador para cierto tipo de dato.
+R3:=>
+un auxiliar para las bibliotecas C

@@ -1,0 +1,8 @@
+54.  Que operador se utiliza para continuar la definicion de macro en la siguiente linea? #define MESSAGE "Hi, \   Welcome to C"
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+se usa comillas simples
+R2:=>
+se usa /
+R3:=>
+Se usa la barra oblicua hacia atras (\).

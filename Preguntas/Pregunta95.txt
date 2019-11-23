@@ -1,0 +1,10 @@
+95. ¿Cuál es la diferencia entre los punteros lejanos y los cercanos (far pointers y near pointers)?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Ambas
+R2:=>
+No existen en C los punteros lejanos
+R3:=>
+Son palabras clave no estándar. Un puntero cercano puede accesar sólo a 2^15 de espacio de memoria y 
+uno lejano puede accesar a 2^32 de espacio de memoria. 
+Las dos palabras clave son específicas de la implementación y no son estándar. 

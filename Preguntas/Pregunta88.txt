@@ -1,0 +1,8 @@
+88. Cuando las macros se expanden?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Al momento del preprocesamiento. 
+R2:=>
+al final del procesamiento
+R3:=>
+durante el procesamiento

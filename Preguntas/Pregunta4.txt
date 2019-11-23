@@ -1,0 +1,10 @@
+4. ¿Cuales son los lugares validos para que aparezca el salto de palabra clave Break?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+La rotura solo aparece en el control de bucle y la instrucción de conmutación de cambio. 
+El proposito de la rotura es sacar el control de dichos bloques.
+R2:=>
+es util  en muchas esferas: automatizacion, aplicaciones web, grandes aplicaciones de datos, 
+modelado cientifico, y muchas mas.
+R3:=>
+es utilizado frecuentemente como codigo “intermediario” para lograr que otros lenguajes y componentes jueguen bien. 

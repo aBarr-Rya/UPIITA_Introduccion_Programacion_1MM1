@@ -1,0 +1,8 @@
+96.  Podemos establecer comentarios de nido (nest comments) en un codigo C?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+No, se puede. 
+R2:=>
+Si, claro.
+R3:=>
+Ambas.

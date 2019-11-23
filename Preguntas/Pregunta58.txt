@@ -1,0 +1,8 @@
+58. Define un array.
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+es una coleccion de datos vacios
+R2:=>
+El Array es una coleccion de elementos de datos parecidos bajo un nombre comun. 
+R3:=>
+es un editor de textos especializado para lenguaje C

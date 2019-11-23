@@ -1,0 +1,9 @@
+53.  Qué es una funcion estática?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+algo incambiable.
+R2:=>
+Es la definición de una función prefijada con una palabra clave. 
+Se convierte una función en estática, si se llama sólo dentro del mismo código fuente.
+R3:=>
+una funcion especial, que devuelve variables aleatorias.

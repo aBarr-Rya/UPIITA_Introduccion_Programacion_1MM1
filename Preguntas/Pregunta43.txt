@@ -1,0 +1,8 @@
+43.  Cual es el proposito de la funcion stricmp() incorporada?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Django y Flask mapean las URL o direcciones escritas en los navegadores web a las funciones de Python.
+R2:=>
+Comparar dos cadenas ignorando el caso.
+R3:=>
+Este suministra flexibilidad y permite al desarrollador usar  herramientas adecuadas para el proyecto.

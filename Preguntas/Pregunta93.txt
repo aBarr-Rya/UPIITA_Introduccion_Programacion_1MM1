@@ -1,0 +1,8 @@
+93.  Existe una manera de comparar dos variables de estructura?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Ambas
+R2:=>
+No. Se necesita comparar cada elemento por elemento de las variables de estructura. 
+R3:=>
+Si, no se necesita comparar cada elemento por elemento de las variables de estructura.

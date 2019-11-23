@@ -1,0 +1,8 @@
+98.  Que es una constante?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Es un valor que no se  puede  modificar. Estas variables son declaradas con la palabra clave const. 
+R2:=>
+una forma de elegante de nombrar variables especiales
+R3:=>
+estructuras que no se repiten

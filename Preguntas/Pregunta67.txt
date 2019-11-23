@@ -1,0 +1,8 @@
+67.  El 068 es un numero octal valido?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+No, no está en la lista oficial
+R2:=>
+Si, es 322
+R3:=>
+No, porque contiene dígitos octales que son inválidos. 

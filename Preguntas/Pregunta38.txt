@@ -1,0 +1,8 @@
+38   Que informacion proporciona el prototipo de una funcion?:	
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+El nombre de las variables
+R2:=>
+Los tipos de datos de entrada y de salida
+R3:=>
+El conjunto de instrucciones a ejecutar

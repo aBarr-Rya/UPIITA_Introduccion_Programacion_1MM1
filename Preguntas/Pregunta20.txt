@@ -1,0 +1,8 @@
+20. ¿Dónde se almacena una variable automática?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Los generadores, son las  funciones que devuelven un conjunto iterable de elementos. 
+R2:=>
+Con el método capitalize() escribe en mayúsculas la primera letra de una cadena. 
+R3:=>
+Una variable automática se almacena en la memoria de la pila. 

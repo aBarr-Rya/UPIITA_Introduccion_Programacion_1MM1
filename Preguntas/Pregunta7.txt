@@ -1,0 +1,8 @@
+7. Que es una variable estatica?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Si una variable global es estatica, su visibilidad estara limitada al mismo codigo fuente. 
+R2:=>
+todas
+R3:=>
+Una variable local estatica es la que retiene su valor entre la llamada de funcion y el valor por defecto, es 0.

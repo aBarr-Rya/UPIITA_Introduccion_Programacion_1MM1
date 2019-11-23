@@ -1,0 +1,8 @@
+94.  Que funcion de libreria incorporada se puede utilizar para hacer coincidir un patron de la cadena?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+strcat()
+R2:=>
+Strstr() 
+R3:=>
+strrev()

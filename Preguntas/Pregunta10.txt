@@ -1,0 +1,8 @@
+10.  Cual es el proposito de la funcion sprintf()?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Este  codigo pueden ser variables o clases de funciones. 
+R2:=>
+Es la variable declarada dentro de una funcion. 
+R3:=>
+Su proposito es Imprimir la salida formateada en la matriz de caracteres.

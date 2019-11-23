@@ -1,0 +1,12 @@
+5. Cual es la diferencia entre incluir el archivo de encabezado con llaves angulares < > y comillas dobles ?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+es un idioma interpretado, que no esta en codigo a nivel de maquina antes de su tiempo de ejecucion.
+R2:=>
+Al  incluir un archivo de origen con < >, el compilador busca el archivo de encabezado en particular, 
+solo con la ruta de inclusión incorporada.
+Pero,  si se incluye un archivo de encabezado en ” “, el compilador buscara primero el archivo del 
+encabezado en particular dentro del directorio de trabajo actual, si no esta en la ruta de inclusion incluida.
+R3:=>
+tiene un recolector de basura incluido, el cual  recicla  la memoria que no esta en uso y asi, se puede poner a 
+disposicion del espacio en el monticulo. 

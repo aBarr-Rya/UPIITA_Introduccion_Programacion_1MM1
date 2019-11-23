@@ -1,0 +1,8 @@
+31. Puede una funcion llamar a otra?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+El metodo split() se utiliza para separar una cadena dada en Python.
+R2:=>
+Si, cualquier funcion definida por el usuario puede llamar a otra funcion. 
+R3:=>
+Los modulos pueden ser importados usando la palabra clave de importacion.

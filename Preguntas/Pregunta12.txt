@@ -1,0 +1,10 @@
+12. Cuando debemos usar el especificador de almacenamiento de registros (register storage specifier)?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+list() – Esta funcion se usa para convertir cualquier tipo de datos a un tipo de lista.
+R2:=>
+oct() – convierte un entero a octal.
+R3:=>
+Una variable debe ser declarada usando el especificador de almacenamiento de registro, 
+cuando la variable es usada  con mas frecuencia,
+entonces puede ser que el compilador le da registro a la CPU para su almacenamiento y para acelerar la busqueda de la variable.

@@ -1,0 +1,9 @@
+56. ¿Cuál es el problema con el siguiente fragmento de código?
+"char *s1 = "hello",*s2 = "welcome";   strcat(s1,s2);"
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+no hay libreria string.h importada
+R2:=>
+s1 apunta a una constante de cadena y no puede ser modificada.
+R3:=>
+Ambas

@@ -1,0 +1,8 @@
+62. ¿Quién diseñó el lenguaje de programación C?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Dennis M. Ritchie. 
+R2:=>
+Lucrecia Flores del Campo
+R3:=>
+Ada Lovelace

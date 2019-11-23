@@ -1,0 +1,8 @@
+21. Que es una estructura anidada?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Es una estructura que contiene un elemento de otra estructura tal y como su miembro lo denomina.
+R2:=>
+Los docstring son cadenas de documentacion, realmente no son comentarios. 
+R3:=>
+Dir(): La funcion dir() es utilizada para ver los simbolos definidos.

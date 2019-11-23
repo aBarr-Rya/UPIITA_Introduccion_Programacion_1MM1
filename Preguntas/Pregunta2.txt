@@ -1,0 +1,10 @@
+2. Cual es la diferencia entre asignacion de memoria malloc() y calloc()?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Las listas son mutables, es decir, se pueden editar.
+R2:=>
+Ambos asignan memoria desde el area de acopio/memoria dinamica. 
+Por defecto calloc carga la memoria asignada con 0’s. 
+R3:=>
+Las tuplas son inmutables (las tuplas son listas que no pueden ser editadas).
+

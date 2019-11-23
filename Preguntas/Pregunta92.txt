@@ -1,0 +1,8 @@
+92.  Se puede inicializar la variable de estructura tan pronto como se declara?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+No..
+R2:=>
+Depende.
+R3:=>
+Si. 

@@ -1,0 +1,8 @@
+32. Ademas de Dennis Ritchie Quien contribuyo en el diseno de lenguaje C?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Brain Kernighan
+R2:=>
+Maria de las trenzas Aguila Camacho
+R3:=>
+Aron swartz

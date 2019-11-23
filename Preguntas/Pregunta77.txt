@@ -1,0 +1,8 @@
+77.  Que es 'stdin'?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+stdin una variable de puntero (pointer) que esta abierta por defecto para un dispositivo de entrada estandar.
+R2:=>
+una constante para abrir archivos
+R3:=>
+una funcion interna anonima

@@ -1,0 +1,11 @@
+16. Que es lvalue y rvalue?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Se utiliza cuando se necesita algun bloque de código sintacticamente, pero se desea omitir su ejecucion. 
+Esto es basicamente una operacion nula. No pasa nada cuando esto se ejecuta.
+R2:=>
+La expresion que esta a la derecha del operador de asignacion se denomina rvalue. 
+El rvalue se asignara al Ivalue, que aparece a la izquierda del operador de asignacion. 
+El valor de I se debe designar a una variable y no a una constante.
+R3:=>
+[::-1] se usa para invertir el orden de una matriz o secuencia.

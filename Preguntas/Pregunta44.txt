@@ -1,0 +1,10 @@
+44. Describa el modo de apertura de archivos 'w+'.
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Es el desarrollador quien suministra el Modelo, la vista y la plantilla y luego simplemente la mapea a una URL y 
+Django hace la magia de servirla al usuario.
+R2:=>
+Se abre un archivo  para leer  y escribir. Si un archivo no existe, 
+se debe crear uno, pero, si el archivo existe, se sobrescribirá.
+R3:=>
+Cerrar Editor y esperar 3 horas a que se genere solo.

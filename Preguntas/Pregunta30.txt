@@ -1,0 +1,9 @@
+30. Cuando se usa el operador -> flecha (arrow)?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Si la variable de estructura/union es una variable pointer (de puntero), 
+para entrar a los elementos de estructura/union se usa el operador de flecha. 
+R2:=>
+Si se cambia el archivo, entonces ejecute rebuildMakefile utilizando el comando como ‘make Makefile’.
+R3:=>
+Despues de la ejecucion exitosa de esta reconstruccion, el interprete usa el comando make en el directorio de nivel superior.

@@ -1,0 +1,8 @@
+36  Que ventajas tiene la programacion recursiva frente a la iterativa?:	
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+El codigo es mas compacto
+R2:=>
+La ejecucion del codigo es mas rapida
+R3:=>
+La cantidad de memoria empleada es menor

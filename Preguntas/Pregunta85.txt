@@ -1,0 +1,8 @@
+85.  Cual es el archivo de salida generado por el enlazador (linker)?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+El archivo ejecutable se genera a raiz de Linker. 
+R2:=>
+El archivo operable se genera a raiz de Linker.
+R3:=>
+El archivo maquina se genera a raiz de Linker.

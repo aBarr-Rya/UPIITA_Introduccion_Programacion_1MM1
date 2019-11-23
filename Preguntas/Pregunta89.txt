@@ -1,0 +1,8 @@
+89.  Puede una funcion devolver multiples valores al caller utilizando la palabra reservada de retorno?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Si, claro
+R2:=>
+No, solamente  puede ser devuelto un valor al caller. 
+R3:=>
+el Calller no existe en C

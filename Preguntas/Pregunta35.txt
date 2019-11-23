@@ -1,0 +1,9 @@
+35  Para que se puede emplear #include?:
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Para incluir en la compilacion y en el montaje otros archivos. 
+Normalmente incluyen definiciones de constantes, prototipos y definiciones de funciones.
+R2:=>
+Para definir nuevos tipos de datos
+R3:=>
+Para definir constantes

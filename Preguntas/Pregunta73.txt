@@ -1,0 +1,9 @@
+73.  Cuales son las operaciones validas en los punteros (pointers)?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Las operaciones permitidas en los punteros son dos:
+Comparacion ii) Adicion/Sustraccion (excluyendo los punteros vacios) 
+R2:=>
+suma y multiplicacion
+R3:=>
+Todas las cientificas

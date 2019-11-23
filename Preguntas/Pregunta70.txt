@@ -1,0 +1,8 @@
+70.  Que es un bucle infinito?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Nada, porque no existe
+R2:=>
+Es el  bucle que se ejecuta repetidamente, como la expresion de bucle siempre evalua a verdadero.
+R3:=>
+Es el  bucle que se ejecuta repetidamente, como la expresion de bucle siempre evalua a falso.

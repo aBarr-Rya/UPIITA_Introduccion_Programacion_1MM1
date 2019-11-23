@@ -1,0 +1,9 @@
+23. ¿Qué es una estructura autorreferencial?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Es una estructura que contiene la misma variable de puntero de estructura, que su elemento. 
+Es por ello que se le denomina autorreferencial.
+R2:=>
+utiliza un patrón regex para “dividir” una cadena dada en una lista.
+R3:=>
+Se usa para determinar la longitud de una lista, matriz, cadena etc.

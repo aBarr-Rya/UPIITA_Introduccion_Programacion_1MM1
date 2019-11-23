@@ -1,0 +1,8 @@
+78. Nombre una funcion que se puede utilizar para cerrar el flujo de archivos.
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+fopen().
+R2:=>
+fclose(). 
+R3:=>
+fflush().

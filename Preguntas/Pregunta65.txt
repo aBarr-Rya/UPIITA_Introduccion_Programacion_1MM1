@@ -1,0 +1,8 @@
+65.  Que operador puede utilizarse para determinar el tamaño de un tipo de datos o de una variable?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+max()
+R2:=>
+sizeof() 
+R3:=>
+min()

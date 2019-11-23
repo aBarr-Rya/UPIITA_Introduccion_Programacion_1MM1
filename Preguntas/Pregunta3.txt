@@ -1,0 +1,15 @@
+3. ¿Para que sirve la palabra clave auto?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Para definir cada variable local. En la siguiente funcion, las variables `i’ y `j’ son variables automaticas.
+void f() {
+   auto int i;
+   auto int j;
+}
+R2:=>
+las funciones son objetos de primera clase. Esto quiere decir que, pueden asignarse a variables, 
+devolverse desde otras funciones y pasar a funciones. 
+Las clases tambien son objetos de primera clase.
+R3:=>
+permite incluir extensiones basadas en C, asi los cuellos de botella se pueden optimizar y a menudo lo son. 
+

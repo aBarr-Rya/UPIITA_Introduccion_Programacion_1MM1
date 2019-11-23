@@ -1,0 +1,8 @@
+33  Cual es el prototipo de la funcion suma que emplea paso de parametros por valor y devuelve el valor de la suma?:
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Herencia unica: es aquella donde una clase derivada obtiene los miembros de una sola superclase.
+R2:=>
+int suma(int,int);
+R3:=>
+Herencia multinivel: una clase derivada d1 se hereda de la clase base base1, y d2 se hereda de la base2.

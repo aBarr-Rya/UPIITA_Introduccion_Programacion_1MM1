@@ -1,0 +1,8 @@
+47.  Que es un recordatorio para el 5.0 % 2?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Usa menos memoria
+R2:=>
+Un error, porque no es valido que uno de los operandos del operador del modulo, (%) sea un numero real.
+R3:=>
+Es muy conveniente

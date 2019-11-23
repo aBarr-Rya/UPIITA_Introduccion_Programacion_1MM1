@@ -1,0 +1,10 @@
+18. Se puede compilar un programa sin la funcion main()?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Si, puede ser compilado, pero no puede ser ejecutado, 
+ya que la ejecucion requiere de la definicion de la funcion main(). 
+R2:=>
+Uniform(a, b): selecciona un numero de punto flotante que es definido en el rango de[a,b).
+R3:=>
+normalvariate(mean, sdev): se usa para la distribucion normal donde el mu es una media y 
+el sdev es un sigma utilizado para la desviacion estandar. 

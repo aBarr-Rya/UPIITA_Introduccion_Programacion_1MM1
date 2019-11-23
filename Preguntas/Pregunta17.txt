@@ -1,0 +1,10 @@
+17. Cual es la diferencia entre parametros reales y formales?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+El modulo random es el modulo estandar para generar un numero aleatorio. 
+R2:=>
+randrange (a, b): elige un numero entero y define el rango entre [a, b). 
+Devuelve los elementos escogiendolos aleatoriamente del rango especificado.
+R3:=>
+Los parametros reales son los enviados a la funcion al final de la llamada, 
+y los formales son los que reciben la definicion de la funcion.

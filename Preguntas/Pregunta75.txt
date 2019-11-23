@@ -1,0 +1,8 @@
+75. Cual es la funcion incorporada para anadir una cadena a otra?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+strcat() 
+R2:=>
+strcpy()
+R3:=>
+strcmp()

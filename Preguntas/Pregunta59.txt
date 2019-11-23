@@ -1,0 +1,8 @@
+59.  Que son las enumeraciones?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+es un bucle for con una variable contador iterandolo.
+R2:=>
+Las enumeraciones son una lista de constantes enteras con nombre. Los numeradores se identifican con la palabra clave ‘enum’.
+R3:=>
+son diccionarios en C

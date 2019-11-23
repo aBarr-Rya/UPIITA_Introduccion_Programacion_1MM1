@@ -1,0 +1,8 @@
+52. ¿Qué es una declaración NULL?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+sirve para almacenar la ultima variable usada.
+R2:=>
+no existe en C.
+R3:=>
+Es una declaración nula. Es la  sentencia que no puede ser ejecutable como ; (punto y coma).

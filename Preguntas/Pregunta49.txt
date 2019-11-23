@@ -1,0 +1,8 @@
+49.  Que palabra clave se utiliza para realizar una ramificacion incondicional?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+goto. 
+R2:=>
+fuyu
+R3:=>
+cool

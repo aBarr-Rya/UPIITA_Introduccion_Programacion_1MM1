@@ -1,0 +1,8 @@
+100.  Puede la funcion main() dejarse vacia?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+No, nunca
+R2:=>
+ninguna
+R3:=>
+Si pero posiblemente el programa no haga nada. 

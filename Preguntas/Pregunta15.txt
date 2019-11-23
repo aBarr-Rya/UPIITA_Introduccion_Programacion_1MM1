@@ -1,0 +1,8 @@
+15. Cual es el proposito de la palabra clave typedef?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Permite la terminacion del bucle cuando se cumple alguna condicion y el control se transfiere a la siguiente instruccion.
+R2:=>
+Permite saltar alguna parte de un bucle cuando se cumple alguna condicion especifica y el control se transfiere al principio del bucle.
+R3:=>
+Es usada para alias el tipo existente y  para simplificar la compleja declaración del tipo.

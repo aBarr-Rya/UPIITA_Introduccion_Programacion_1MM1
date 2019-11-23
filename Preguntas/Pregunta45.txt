@@ -1,0 +1,9 @@
+45.  Donde no se puede utilizar la direccion del operador (&)?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+No se puede utilizar en constantes, ni en variables que se declaran, 
+usando la clase de almacenamiento de registro.
+R2:=>
+Siempre se puede utilizar
+R3:=>
+No existe ese operador en C

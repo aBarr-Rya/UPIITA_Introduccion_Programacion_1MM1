@@ -1,0 +1,8 @@
+64. ¿Que significa ANSI?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+American National System International
+R2:=>
+Australia Naval Surgery Intitute
+R3:=>
+Instituto Nacional Americano de Estándares. (American National Standards Institute.) 

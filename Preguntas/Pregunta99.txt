@@ -1,0 +1,8 @@
+99.  Podemos usar solo el nombre de la etiqueta de las estructuras para declarar las variables para las mismas?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+A veces
+R2:=>
+No, es necesario usar  la palabra clave ‘struct’ y  el nombre de la etiqueta. 
+R3:=>
+Ninguna

@@ -1,0 +1,8 @@
+51. Explique el uso del operador de coma (,).
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+El operador de coma, se puede usar para separar dos o mas expresiones.
+R2:=>
+obsoleto, porque tienden a confundir al intérprete
+R3:=>
+polimorfico,porque se usan para indicar una variable privada de una clase.

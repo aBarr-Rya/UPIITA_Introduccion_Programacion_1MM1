@@ -1,0 +1,8 @@
+81.  Que es el encasillamiento (typecasting) ?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+El Typecasting o encasillamiento es  la forma de convertir una variable/constante de un tipo a otro tipo.
+R2:=>
+flujo de datos aleatorio.
+R3:=>
+es un tipo de variable compleja.

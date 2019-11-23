@@ -1,0 +1,8 @@
+50.  Que es un puntero (pointer) a una funcion? 
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+una flecha imaginaria. 
+R2:=>
+Un puntero (pointer) a una funcion, se le llama al puntero que mantiene la referencia de la funcion. 
+R3:=>
+serie de bits capaces de responder positivamente con C.

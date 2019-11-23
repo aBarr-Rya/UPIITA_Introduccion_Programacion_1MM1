@@ -1,0 +1,9 @@
+14. Que es un puntero colgante?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+La funcion es un bloque de codigo que se ejecuta solo cuando se llama.
+R2:=>
+Es el  puntero que al  inicio contiene una direccion valida, pero  mas tarde libera la direccion retenida. 
+Entonces recibe el nombre de puntero colgante.
+R3:=>
+Una funcion anonima se le llama funcion lambda la cual puede tener diferentes numeros de parametros pero puede tener una sola sentencia.

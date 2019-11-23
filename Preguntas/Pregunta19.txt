@@ -1,0 +1,9 @@
+19. Cual es la ventaja de declarar nulos los indicadores?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+ninguna
+R2:=>
+Si no sabemos que tipo de direccion de memoria va a tener la variable del puntero, 
+se declara nulo el puntero para esa variable.
+R3:=>
+aumentar velocidad de operacion

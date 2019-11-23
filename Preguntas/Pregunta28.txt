@@ -1,0 +1,8 @@
+28. Como se puede imprimir un slash usando cualquiera de las funciones de la familia printf()?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Agregar una linea en el archivo Setup.local que este presente en el directorio Modules/.
+R2:=>
+Ejecuta el archivo usando spam file.o
+R3:=>
+Usando la barra invertida o slash. 

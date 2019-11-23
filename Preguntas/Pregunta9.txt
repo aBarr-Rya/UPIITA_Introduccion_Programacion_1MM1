@@ -1,0 +1,9 @@
+9.  Cual es el proposito del especificador de almacenamiento externo (extern storage specifier)?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Es usado para resolver el alcance del simbolo global.
+R2:=>
+Es una variable de entorno y se usa cuando se importa un modulo. 
+R3:=>
+El interprete lo usa para determinar cual modulo va a cargar. 
+

@@ -1,0 +1,8 @@
+84.  Como podemos determinar si un archivo se abre con exito o no usando la funcion fopen()?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+sentencia try catch
+R2:=>
+No se puede
+R3:=>
+Si hay un fallo, fopen() devuelve NULL, en caso contrario se abre con exito. 

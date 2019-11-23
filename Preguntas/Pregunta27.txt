@@ -1,0 +1,9 @@
+27. Que es un preprocesador?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Crea un archivo con un nombre y en cualquier idioma, que sea compatible con el compilador de su sistema, 
+ejemplo, archivo.c o archivo.cpp
+R2:=>
+El preprocesador es una directiva para que el compilador efectue ciertas cosas antes de comenzar el proceso de compilacion real. 
+R3:=>
+Ubica el archivo en el directorio Modules/ de la distribucion que se esta usando.

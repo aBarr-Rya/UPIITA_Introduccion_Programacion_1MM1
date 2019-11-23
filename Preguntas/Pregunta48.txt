@@ -1,0 +1,8 @@
+48.  Cuantos operadores hay en la categoria de operadores ternarios?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Igual que el trazado en 2D, los graficos en 3D estan fuera del alcance de NumPy y SciPy.
+R2:=>
+Matplotlib suministra trazado 3D basico en el subpaquete mplot3d.
+R3:=>
+Solo hay uno y es un operador condicional (? :). 

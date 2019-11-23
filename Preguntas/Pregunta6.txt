@@ -1,0 +1,11 @@
+6. Como se almacena un numero entero negativo?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Obteneniendo el complemento de los dos del mismo entero positivo. 
+R2:=>
+Ej: 1011 (-5)
+Paso 1 – Un cumplido de 5: 1010
+Paso-2 – Sumar 1 a arriba, dando 1011, que es -5 
+R3:=>
+las anteriores
+

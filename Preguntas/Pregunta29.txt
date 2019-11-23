@@ -1,0 +1,8 @@
+29. Se requiere un break por defecto en la declaracion switch?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Si, si no aparece como ultimo caso y si no se quiere que el control fluya al siguiente caso despues del defecto si es que lo hay. 
+R2:=>
+NO, para que?
+R3:=>
+en C no existe el break

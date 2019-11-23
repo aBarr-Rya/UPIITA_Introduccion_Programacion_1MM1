@@ -1,0 +1,10 @@
+26. Que es un token?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Un token es una palabra clave,identificador,  un simbolo, una constante, 
+o  una literal de cadena, un programa CA contiene varios token. 
+R2:=>
+La copia superficial (shallow copy) es utilizada cuando se crea un nuevo tipo de instancia y 
+mantiene los valores que se copian en la nueva instancia.
+R3:=>
+La copia profunda (deep copy) es utilizada para guardar los valores que se hayan copiado. 

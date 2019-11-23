@@ -1,0 +1,8 @@
+69.  Como funciona el operador XOR?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Si los dos bits correspondientes son iguales, se obtiene 0 o 1. 
+R2:=>
+Si los dos bits correspondientes son iguales, se obtiene -1 o 1. 
+R3:=>
+Si los dos bits correspondientes son iguales, se obtiene 2 o 1. 

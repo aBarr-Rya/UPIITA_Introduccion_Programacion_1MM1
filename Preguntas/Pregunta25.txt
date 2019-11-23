@@ -1,0 +1,9 @@
+25. Explica la programacion modular.
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Se pueden  agregar elementos a una matriz utilizando las funciones append(), extend() y insert (i,x).
+R2:=>
+Se pueden eliminar los elementos del array, a traves del  metodo pop() o remove().
+R3:=>
+Un enfoque modular  consiste en dividir el programa en sub-programas, (modulos/funcion) para lograr la tarea dada. 
+La definicion de funciones genericas ofrece posibilidad de reutilizar las funciones, como las de biblioteca incorporadas. 

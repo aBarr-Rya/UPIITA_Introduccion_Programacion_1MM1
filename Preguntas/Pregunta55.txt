@@ -1,0 +1,8 @@
+55.  Que operador se utiliza para recibir el numero variable de argumentos de una funcion?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Las elipses.
+R2:=>
+operador ++
+R3:=>
+operador ternario

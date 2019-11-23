@@ -1,0 +1,8 @@
+22. Cual es la diferencia entre declaracion de variables y definicion de variables?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Es dificil desasignar las porciones de memoria que estan reservadas por la libreria C.
+R2:=>
+La declaracion da el valor al tipo de variable, y la definicion asocia el valor a la variable.
+R3:=>
+Los operadores Ternarios se utilizan para mostrar las sentencias condicionales.

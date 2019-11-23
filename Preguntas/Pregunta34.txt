@@ -1,0 +1,8 @@
+34  Para que se puede emplear el termino #define?:
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Para definir constantes numerica
+R2:=>
+Para definir nuevos tipos de datos
+R3:=>
+Para finalizar el programa

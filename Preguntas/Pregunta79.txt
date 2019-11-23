@@ -1,0 +1,8 @@
+79.  Cual es el proposito del preprocesador #undef?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Se usa para anular una definicion de macro existente. 
+R2:=>
+doble proteccion de variable
+R3:=>
+es una libreria

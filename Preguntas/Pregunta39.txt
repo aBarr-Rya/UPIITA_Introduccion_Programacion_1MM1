@@ -1,0 +1,8 @@
+39  Como se asignan valores a los campos de una estructura de tipo fecha declarada con el nombre de hoy?	
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+hoy.dia= 30; hoy.mes=12
+R2:=>
+hoy->dia=30; hoy->mes=12
+R3:=>
+fecha.hoy.dia=30; fecha.hoy.mes=12

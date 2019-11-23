@@ -1,0 +1,9 @@
+24. Un archivo de encabezado incorporado contiene una definicion de funcion incorporada?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Se les llama paquetes a los espacios de nombres que contienen muchos modulos. 
+R2:=>
+Para eliminar un archivo en Python, es necesario importar el modulo OS y despues, necesita usar la funcion os.remove().
+R3:=>
+No, porque  el archivo de encabezado solo declara la funcion. 
+La definicion esta en la biblioteca la cual está enlazada por el enlazador. 

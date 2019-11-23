@@ -1,0 +1,9 @@
+40.  Que son los campos de bits (bit fields)?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Se pueden crear estructuras de datos de enteros de distinto tamanos que no sean estandar mediante el uso de los campos de bits. 
+Estas estructuras van a automaticamente ajustarse en tamano segun los diferentes tamanos de ‘enteros’ de la maquina. 
+R2:=>
+Herencia jerarquica: de una clase base se puede heredar cualquier numero de clases hijo
+R3:=>
+Herencia multiple: una clase derivada se hereda de varias clase base.

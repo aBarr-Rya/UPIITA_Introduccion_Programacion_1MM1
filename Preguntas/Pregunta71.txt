@@ -1,0 +1,8 @@
+71.  Pueden tener el mismo nombre las variables que pertenecen a diferentes ambitos? 
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+No, da error
+R2:=>
+No, las variables que pertenecen a un ambito igual, pueden tener el mismo nombre que en el siguiente fragmento de codigo.
+R3:=>
+Si, las variables que pertenecen a un ambito distinto, pueden tener el mismo nombre que en el siguiente fragmento de codigo.

@@ -1,0 +1,8 @@
+46. ¿Es FILE un tipo de datos incorporado?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Si, por supuesto
+R2:=>
+es hibrido.
+R3:=>
+No. Sólo es una estructura definida en stdio.h.

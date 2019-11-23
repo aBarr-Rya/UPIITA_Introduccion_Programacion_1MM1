@@ -1,0 +1,9 @@
+8. Que es un puntero NULL?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Un espacio de nombres: es el sistema de nombres que se usa para asegurarse  que los nombres son unicos y 
+asi evitar conflictos de nombres.
+R2:=>
+Es el puntero que no apunta a nada.
+R3:=>
+ninguna

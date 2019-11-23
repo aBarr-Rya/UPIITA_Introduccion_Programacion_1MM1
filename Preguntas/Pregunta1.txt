@@ -1,0 +1,10 @@
+1. Que es un puntero sobre otro puntero?
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+Es una variable que puede tener la direccion de otra variable de puntero. 
+Se refiere dos veces para apuntar a los datos que contiene la variable de puntero designada.
+R2:=>
+PEP son siglas que representan a Python Enhancement Proposal. 
+Y que especifican como formatear el codigo de Python para que tenga una maxima legibilidad. 
+R3:=>
+ninguna

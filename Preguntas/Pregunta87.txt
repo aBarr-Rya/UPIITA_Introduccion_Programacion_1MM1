@@ -1,0 +1,8 @@
+87. Las funciones deben ser declaradas. Comenta sobre esto.
+------------------------------------------------------------Opciones------------------------------------------------------------
+R1:=>
+La declaracion de una funcion es optativa, si la misma se llama despues de ser definida. 
+R2:=>
+No necesariamente.
+R3:=>
+Si, siempre.
