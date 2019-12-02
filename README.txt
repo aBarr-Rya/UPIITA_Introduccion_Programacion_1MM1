@@ -4,7 +4,10 @@
 
 HOLAAAA Profesooooor!!
 
-Disculpe, me acabo de enterar que hoy no llegará usted a la revisión ya que tiene que salir, así que subi el ultimo trabajo que nos asigno a la carpeta "C_Evaluacion_Final", con el nombre de "Progra_Final_02_12_19.c", podría enviarme un correo a mi correo AndreaGoldComputingMexka@outlook.com, para enviarle mis documentos? ya que cifrar no es una opción si usted de antemano no se sabe la contraseña jaja
+Disculpe, me acabo de enterar que hoy no llegará usted a la revisión ya que tiene que salir,
+así que subi el ultimo trabajo que nos asigno a la carpeta "C_Evaluacion_Final",
+con el nombre de "Progra_Final_02_12_19.c", podría enviarme un correo a mi correo AndreaGoldComputingMexka@outlook.com, 
+para enviarle mis documentos? ya que cifrar no es una opción si usted de antemano no se sabe la contraseña jaja
 
 Saludos Cordiales 
 
