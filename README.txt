@@ -1,4 +1,24 @@
 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+HOLAAAA Profesooooor!!
+
+Disculpe, me acabo de enterar que hoy no llegará usted a la revisión ya que tiene que salir, así que subi el ultimo trabajo que nos asigno a la carpeta "C_Evaluacion_Final", con el nombre de "Progra_Final_02_12_19.c", podría enviarme un correo a mi correo AndreaGoldComputingMexka@outlook.com, para enviarle mis documentos? ya que cifrar no es una opción si usted de antemano no se sabe la contraseña jaja
+
+Saludos Cordiales 
+
+Morales Barrera Andrea 1MM1
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+
+
+
+
+
 //*********************************************************************************
 // Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas IPN 
 //                         Morales Barrera Andrea 1MM1 
@@ -6,6 +26,8 @@
 //                        Introduccion a la Programación
 //                          Boleta :   2020640286
 //*********************************************************************************
+
+
 
 
 En el documento Resultados.txt se almacenaran todos los resultados obtenidos en las diferentes modalidades del examen aleatorio.
