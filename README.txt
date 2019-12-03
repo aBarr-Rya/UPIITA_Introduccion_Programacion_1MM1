@@ -17,13 +17,15 @@ Morales Barrera Andrea 1MM1
 
 
 
-Profesor También me enteré de que extravió los archivos del parcial anterior así que los subí en la carpeta "1MM1_Andrea_Morales_Barrera" , Ahí adentro encontrará el readme file, y TODO lo necesario para que funcionen correctamente, incluyendo la version de Adobe de la interfaz Gráfica que utilicé.
+Profesor También me enteré de que extravió los archivos del parcial anterior así que los subí en la carpeta
+ "1MM1_Andrea_Morales_Barrera" , Ahí adentro encontrará el readme file,
+ y TODO lo necesario para que funcionen correctamente, incluyendo la version de Adobe de la interfaz Gráfica que utilicé.
 
                                               #Pongame10plox jaja   
 Pd:también quisiera enviarleee mis Documentooos, pero no me responde mis gmails que le envíe a su correo.
 
 
-
+***********************************************************************************************************************************************************************************************************************************************************
 
 
 //*********************************************************************************
