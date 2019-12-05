@@ -1,32 +1,3 @@
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-
-
-Profesor También me enteré de que extravió los archivos del parcial anterior así que los subí en la carpeta
- "1MM1_Andrea_Morales_Barrera" , Ahí adentro encontrará el readme file,
- y TODO lo necesario para que funcionen correctamente, incluyendo la version de Adobe de la interfaz Gráfica que utilicé.
-
-                                              #Pongame10plox jaja   
-Pd:también quisiera enviarleee mis Documentooos, pero no me responde mis gmails que le envíe a su correo.
-Recordandole que mi correo es : AndreaGoldComputingMexka@outlook.com.
-
-Gracias POR TOODOOO.
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-HOLAAAA Profesooooor!!
-
-Disculpe, me acabo de enterar que hoy no llegará usted a la revisión ya que tiene que salir,
-así que subi el ultimo trabajo que nos asigno a la carpeta "C_Evaluacion_Final",
-con el nombre de "Progra_Final_02_12_19.c", podría enviarme un correo a mi correo AndreaGoldComputingMexka@outlook.com, 
-para enviarle mis documentos? ya que cifrar no es una opción si usted de antemano no se sabe la contraseña jaja
-
-Saludos Cordiales 
-
-Morales Barrera Andrea 1MM1
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
 
 //*********************************************************************************
 // Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas IPN 
